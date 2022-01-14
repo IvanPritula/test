@@ -1,0 +1,70 @@
+*{
+  box-sizing: border-box;
+}
+.obertka{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(112, 76, 197);
+  overflow: hidden;
+  text-align: center;
+} 
+.obertka2{
+  display: inline-block;
+  border: 1px solid red;
+  width: 800px;
+  height: 350px;
+  margin-top: 180px;
+  text-align: right;
+  background-color: rgb(139, 159, 226);
+  padding-top: 115px;
+  padding-right: 50px;
+  color: white;
+  position: relative;
+  font-size: 24px;
+ 
+}
+.signUp{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  margin-right: 60px;
+  background-color: rgb(139, 159, 226);
+  border: 1px solid white;
+  color: white;
+}
+.logIn{
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  background-color: rgb(245, 94, 237);
+  border: 1px solid white;
+  color: white;
+  border: 1px solid blue;
+}
+form{
+  display: inline-block;
+  border: 1px solid red;
+  background-color: white;
+  height: 550px;
+  width: 400px;
+  margin-bottom: 500px;
+  margin-right: 300px;
+  text-align: center;
+  padding-top: 150px;
+  position:absolute ;
+  top: -50px;
+  left: 30px;
+  
+}
+
+.dani{
+  width: 200px;
+  height: 45px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+fieldset{
+  margin-bottom: 20px;
+}
